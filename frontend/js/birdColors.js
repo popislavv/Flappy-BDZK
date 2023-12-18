@@ -5,7 +5,7 @@ const birdColors = [
     },
     {
         color: 'boki',
-        price: 0
+        price: 30
     },
     {
         color: 'buza',
