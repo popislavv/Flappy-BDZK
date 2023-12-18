@@ -35,4 +35,7 @@ const birdColors = [
         color: 'risa',
         price: 250
     },
+        color: 'jelenko',
+        price: 400
+    },
 ];
