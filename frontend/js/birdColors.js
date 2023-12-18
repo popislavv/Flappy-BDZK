@@ -5,34 +5,34 @@ const birdColors = [
     },
     {
         color: 'boki',
-        price: 50
+        price: 0
     },
     {
         color: 'buza',
-        price: 60
+        price: 40
     },
     {
         color: 'tesa',
-        price: 80
+        price: 50
     },
     {
         color: 'pop',
-        price: 80
+        price: 50
     }, 
     {
         color: 'dani',
-        price: 100
+        price: 60
     },
     {
         color: 'pero',
-        price: 250
+        price: 100
     },
     {
         color: 'luka',
-        price: 300
+        price: 200
     },
     {
         color: 'risa',
-        price: 800
+        price: 250
     },
 ];
