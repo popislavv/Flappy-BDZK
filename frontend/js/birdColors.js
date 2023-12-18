@@ -38,5 +38,5 @@ const birdColors = [
     {
         color: 'jelenko',
         price: 400
-    }
+    },
 ];
